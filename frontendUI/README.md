@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# flaskesp32
+# HUSH frontend
 Create a virtual environment 		
 
 For mac or linux
@@ -21,10 +20,8 @@ Install the requirements
 
 Run the app.py program
 
-	
+Open your localhost with port 80 on your browser	
 
 		
 	
-=======
 
->>>>>>> e68e8dffd79af959830c0d8f069213715fd8c1ba
