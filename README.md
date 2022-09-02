@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flaskesp32
 Create a virtual environment 		
 
@@ -24,3 +25,6 @@ Run the app.py program
 
 		
 	
+=======
+
+>>>>>>> e68e8dffd79af959830c0d8f069213715fd8c1ba
